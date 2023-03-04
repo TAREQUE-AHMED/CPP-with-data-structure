@@ -14,8 +14,8 @@ class Student{
 int main(){
     Student tareque;
     tareque.x = 20;
-    tareque.y=30;
-    tareque.z=40;
+    // tareque.y=30;
+    // tareque.z=40;
     //tareque.sayHi();
 
     return 0;
